@@ -1,0 +1,18 @@
+{
+    "name": "invoke/async-php-examples",
+    "require": {
+        "react/event-loop": "^1.1",
+        "react/stream": "^1.1",
+        "react/promise": "^2.8",
+        "react/socket": "^1.6"
+    },
+    "autoload": {
+        "classmap": ["vendor"]
+    },
+    "authors": [
+        {
+            "name": "jseparovic1",
+            "email": "jurica.separovic@gmail.com"
+        }
+    ]
+}
